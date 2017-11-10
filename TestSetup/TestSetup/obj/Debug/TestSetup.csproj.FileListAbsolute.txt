@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\bin\Debug\TestSetup.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\bin\Debug\TestSetup.exe
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\bin\Debug\TestSetup.pdb
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\obj\Debug\TestSetup.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\obj\Debug\TestSetup.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\obj\Debug\TestSetup.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\obj\Debug\TestSetup.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\obj\Debug\TestSetup.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\obj\Debug\TestSetup.exe
+C:\Users\User\Documents\Visual Studio 2017\Project\TestSetup\TestSetup\obj\Debug\TestSetup.pdb
